@@ -2,7 +2,7 @@ name: "Shizuru Font"
 designer: "Shibuya Font"
 license: "OFL"
 category: "DISPLAY"
-date_added: "2020-12-08"
+date_added: "2020-12-14"
 fonts {
   name: "Shizuru Font"
   style: "normal"
@@ -12,4 +12,6 @@ fonts {
   full_name: "Shizuru Font Regular"
   copyright: "Copyright 2020 The Shizuru Font Project Authors (https://github.com/shibuyafont/shizuru-font), all rights reserved."
 }
+subsets: "japanese"
+subsets: "latin"
 subsets: "menu"
